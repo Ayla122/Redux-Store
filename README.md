@@ -71,3 +71,5 @@ mit
 
 (at root directory run): 
 npm i
+
+o
